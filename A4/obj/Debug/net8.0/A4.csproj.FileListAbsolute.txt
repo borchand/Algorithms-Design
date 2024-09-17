@@ -1,0 +1,15 @@
+/Users/borch_and/Documents/GitHub/Algorithms-Design/A4/bin/Debug/net8.0/A4
+/Users/borch_and/Documents/GitHub/Algorithms-Design/A4/bin/Debug/net8.0/A4.deps.json
+/Users/borch_and/Documents/GitHub/Algorithms-Design/A4/bin/Debug/net8.0/A4.runtimeconfig.json
+/Users/borch_and/Documents/GitHub/Algorithms-Design/A4/bin/Debug/net8.0/A4.dll
+/Users/borch_and/Documents/GitHub/Algorithms-Design/A4/bin/Debug/net8.0/A4.pdb
+/Users/borch_and/Documents/GitHub/Algorithms-Design/A4/obj/Debug/net8.0/A4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borch_and/Documents/GitHub/Algorithms-Design/A4/obj/Debug/net8.0/A4.AssemblyInfoInputs.cache
+/Users/borch_and/Documents/GitHub/Algorithms-Design/A4/obj/Debug/net8.0/A4.AssemblyInfo.cs
+/Users/borch_and/Documents/GitHub/Algorithms-Design/A4/obj/Debug/net8.0/A4.csproj.CoreCompileInputs.cache
+/Users/borch_and/Documents/GitHub/Algorithms-Design/A4/obj/Debug/net8.0/A4.sourcelink.json
+/Users/borch_and/Documents/GitHub/Algorithms-Design/A4/obj/Debug/net8.0/A4.dll
+/Users/borch_and/Documents/GitHub/Algorithms-Design/A4/obj/Debug/net8.0/refint/A4.dll
+/Users/borch_and/Documents/GitHub/Algorithms-Design/A4/obj/Debug/net8.0/A4.pdb
+/Users/borch_and/Documents/GitHub/Algorithms-Design/A4/obj/Debug/net8.0/A4.genruntimeconfig.cache
+/Users/borch_and/Documents/GitHub/Algorithms-Design/A4/obj/Debug/net8.0/ref/A4.dll
