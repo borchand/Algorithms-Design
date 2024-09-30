@@ -6,7 +6,9 @@ namespace A5
     {
         public static void Main(string[] args)
         {
-            ProblemA.WallacetheWeightliftingWalrus();
+            // ProblemA.WallacetheWeightliftingWalrus();
+            // ProblemB.WeightedIntervalScheduling();
+            ProblemK.Knapsack();
         }
     }
 }
